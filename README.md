@@ -1,6 +1,6 @@
 # _Leap Year Detector_
 
-#### _Determine whether a year is a leap year, 1/24/19_
+#### _Determine whether a year is a leap year, homework as assigned by Epicodus, 1/24/19_
 
 #### By _**Slater Smith**_
 
